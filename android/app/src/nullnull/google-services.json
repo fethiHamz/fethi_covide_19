@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "382258865090",
+    "firebase_url": "https://fethicovide19.firebaseio.com",
+    "project_id": "fethicovide19",
+    "storage_bucket": "fethicovide19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382258865090:android:de790ed77c68ad01566c5b",
+        "android_client_info": {
+          "package_name": "com.example.fethi_covide_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382258865090-dbs7tc252t3uslj4326sb8ubfjtgf8l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowyZzy2hS4HmrYp5BpZxTwd9JHZzoKnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382258865090-dbs7tc252t3uslj4326sb8ubfjtgf8l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
